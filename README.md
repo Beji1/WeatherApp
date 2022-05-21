@@ -11,9 +11,3 @@ A simple material design Weather website with basic PWA features.
 | ![TabletLayout](./doc_assets/ss3.png)  |  ![TabletLayout](./doc_assets/ss4.png)  |
 
 
-## Credits
-
-- [OpenWeatherMaps](https://openweathermap.org/)
-- [Materialize](https://materializecss.com/)
-- [Material Design Lite](https://getmdl.io/)
-- Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com.
